@@ -1735,10 +1735,10 @@ eslint-config-airbnb-base@^13.2.0:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-airbnb-standard@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-airbnb-standard/-/eslint-config-airbnb-standard-3.0.1.tgz#a77fdab096301db4ee93490093887a53ae942b2f"
-  integrity sha512-C0wDuGJwH3Fft/ILLUNPLS638yjNO3UscEd2vdQH+iXAMVsvBlPmeTOpjTNWOAoyS5pvEqcEHMGv4PDIqqWNZQ==
+eslint-config-airbnb-standard@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-airbnb-standard/-/eslint-config-airbnb-standard-3.1.0.tgz#f9e8b8c083d9752c7a0e2360d884be8c26f464be"
+  integrity sha512-R8JQ9o+YsipeTfIlws9XPtHiSUAE9OcKqzUmo/fjHH52knuRYuouWaUqtMHl8Ac58htTbdMP04qi5UvrrlEuuQ==
   dependencies:
     babel-eslint "^10.0.1"
     eslint "^5.3.0"
@@ -5618,7 +5618,7 @@ sprintf-js@~1.0.2:
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
   integrity sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=
 
-standard-version@^7.0.0:
+standard-version@7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/standard-version/-/standard-version-7.0.0.tgz#4ce10ea5d20270ed4a32b22d15cce5fd1f1a5bbb"
   integrity sha512-pbFXM9vutnxTkSGkqSWQeYCMYqWmFBaLUNdEc/sJDQnMgwB0Csw3CZeeDhi62VoVS3P8mQiYbvXGZWyOBWxUbw==
