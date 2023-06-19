@@ -50,7 +50,7 @@
     "joi": "^14.0.6",
     "joi-to-json-schema": "^5.1.0",
     "jsonschema": "^1.2.4",
-    "knex": "^0.19.4",
+    "knex": "^2.0.0",
     "lodash": "^4.17.10",
     "morgan": "^1.9.0",
     "mustache": "^3.0.1",
