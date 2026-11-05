@@ -47,7 +47,7 @@
     "consolidate": "^0.15.1",
     "dir_filenames": "^1.0.6",
     "express": "^4.16.3",
-    "joi": "^14.0.6",
+    "joi": "^17.0.0",
     "joi-to-json-schema": "^5.1.0",
     "jsonschema": "^1.2.4",
     "knex": "^0.19.4",
